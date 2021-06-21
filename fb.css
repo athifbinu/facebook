@@ -1,0 +1,82 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 90px;
+}
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#dadada ;
+}
+.logo{
+    width: 50%;   
+    padding-top: 38px;
+    float: left;
+
+       
+}
+.loging{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text{
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    text-decoration: none;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-left: 170px;
+}
+.loging-label{
+    color: #fff;
+    font-size: 13px;
+}
+.loging-control{
+  margin-left: 130px;
+}
+.loging{
+    padding-top: 13px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 13px;
+    text-decoration: none;
+    color:#dadada;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color:lightskyblue;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 150px;
+    padding-top: 15px;
+}
+.right-section{
+    width: 50%;
+    float: right;
+}
+.main-body{
+    background-color: linear-gradient(#fff,#d3d8e8);
+    width: 100%;
+    height: 500px;
+}
+.right-section{
+    font-size: 20px;
+}
+.perfect{
+    margin-top: 30px;
+    color: red;
+    font-size: 5px;
+}
+
+   
